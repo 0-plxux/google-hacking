@@ -4,4 +4,5 @@ Every penetration test should start with a passive reconnaissance phase. Since p
 
 ![Capture d’écran (70)](https://github.com/0-plxux/google-hacking/assets/163966277/d8ce3640-ef28-4674-a96b-155e87737be5)
 
-![Uploading Capture d’écran (71).png…]()
+
+![Capture d’écran (71)](https://github.com/0-plxux/google-hacking/assets/163966277/64c37405-648c-46c2-bbf2-a683503e8afb)
